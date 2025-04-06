@@ -99,8 +99,3 @@ Contributions are welcome! Fork the repo, create a branch, and submit a pull req
 
 This project is licensed under the MIT License.
 
-```
-
----
-
-This updated README now includes detailed instructions on running the project locally in VS Code on Windows. You can further tweak the instructions to match your setup or add more screenshots as needed.
