@@ -57,3 +57,20 @@ PRs are welcome! Fork the repo and submit improvements.
 ## 📜 License
 
 MIT
+
+
+---
+## 📸 Visual Walkthrough
+Below are some screenshots to showcase the StudyAgent outputs:
+
+### 🧠 Multi-Agent Execution
+![Agent Flow](assets/agents_flow.png)
+
+### 🧾 Structured Content from PDFs
+![Content Chunking](assets/content_chunking.png)
+
+### 📚 Summary & Quiz Output
+![Study Output](assets/summary_output.png)
+
+### 🗓️ Study Plan Calendar
+![Calendar](assets/calendar_plan.png)
