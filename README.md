@@ -1,7 +1,7 @@
 
 ---
 
-```markdown
+
 # 🧠 StudyAgent
 
 > An AI-powered assistant that extracts key concepts from academic PDFs, generates study guides, quizzes, and personalized study plans.
