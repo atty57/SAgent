@@ -1,0 +1,10 @@
+crewai==0.28.8
+pyPDF2==3.0.1
+sentence-transformers==3.4.1
+huggingface_hub==0.30.1
+bert_score==0.3.13
+pydantic==2.11.1
+icalendar==6.1.3
+sklearn
+matplotlib
+google-colab  # Only required if running on Colab
